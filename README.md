@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I do random Shit
+![Insert5StarName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insert5StarName&show_icons=true&theme=tokyonight)
 <!--
 **Insert5StarName/Insert5StarName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
